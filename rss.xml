@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Dr Kapasi ]]></title>
         <description><![CDATA[Dr Kapasi ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dr-kapasi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 21:30:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 21:35:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dr-kapasi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We have enough stock for Meningitis B vaccinations at Kapasi Medical. Protect your child today from £90.00]]></title>
+            <description><![CDATA[<article><h1>We have enough stock for Meningitis B vaccinations at Kapasi Medical. Protect your child today from £90.00</h1><p>As hundreds of thousands of people sign a petition for the meningitis B vaccine to be given to all children, BBC News asks why it is limited to babies of a certain age - and whether there is enough of it to go round.</p><img src="http://ichef.bbci.co.uk/news/1024/cpsprodpb/15381/production/_88331968_hi002942463.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dr-kapasi/we-have-enough-stock-for-meningitis-b-vaccinations-at-kapasi/index.html</link>
+            <guid isPermaLink="false">a0fdc299-305c-4e1d-beba-d825682ed65f</guid>
+            <pubDate>Fri, 19 Feb 2016 21:30:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A sign of things to come? ]]></title>
-            <description><![CDATA[<article><h1>A sign of things to come? </h1><p>Overspending by NHS trusts in England has risen to £2.26bn this year as services struggle to keep control of their finances. The April to December figures mark the three-quarter point of the 2015-16 year - and means the deficit is nearly triple what it was in 2014-15.</p><img src="http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/A7F1/production/_86839924_theatre.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>A sign of things to come? </h1><p>Overspending by NHS trusts in England has risen to £2.26bn this year as services struggle to keep control of their finances. The April to December figures mark the three-quarter point of the 2015-16 year - and means the deficit is nearly triple what it was in 2014-15.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/640baa2af0fd9fdad516311620110c014a5ca631.jpg"></article>]]></description>
             <link>http://www.bbc.co.uk/news/health-35608992</link>
             <guid isPermaLink="false">d5bc9a9d-3e23-46cd-ad94-37263e38935a</guid>
             <pubDate>Fri, 19 Feb 2016 21:25:31 GMT</pubDate>
