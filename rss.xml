@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dr Kapasi ]]></title>
+        <description><![CDATA[Dr Kapasi ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Feb 2016 21:30:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A sign of things to come? ]]></title>
+            <description><![CDATA[<article><h1>A sign of things to come? </h1><p>Overspending by NHS trusts in England has risen to £2.26bn this year as services struggle to keep control of their finances. The April to December figures mark the three-quarter point of the 2015-16 year - and means the deficit is nearly triple what it was in 2014-15.</p><img src="http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/A7F1/production/_86839924_theatre.jpg"></article>]]></description>
+            <link>http://www.bbc.co.uk/news/health-35608992</link>
+            <guid isPermaLink="false">d5bc9a9d-3e23-46cd-ad94-37263e38935a</guid>
+            <pubDate>Fri, 19 Feb 2016 21:25:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
