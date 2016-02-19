@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.5262684
+  brandStrength: 0.9471136
+  lightness: 0.1165414
+  rhythmicContrast: 0.9025005
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+typography_spectrum: 1
+name: 'Dr Kapasi '
